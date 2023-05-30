@@ -1,0 +1,11 @@
+2023/05/17 12:50:41 Error 1
+2023/05/18 13:23:44 dial tcp: lookup tcp/RadioDB: Servname not supported for ai_socktype
+2023/05/18 13:23:56 dial tcp: lookup tcp/RadioDB: Servname not supported for ai_socktype
+2023/05/18 13:27:07 dial tcp: lookup tcp/RadioDB: Servname not supported for ai_socktype
+2023/05/18 15:19:16 Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2023/05/18 15:19:41 Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2023/05/18 15:22:05 Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2023/05/18 15:26:52 Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2023/05/18 15:37:22 Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2023/05/18 15:46:19 Unable to connect to DB
+2023/05/18 15:46:20 Unable to connect to DB
